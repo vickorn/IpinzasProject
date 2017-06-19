@@ -1,0 +1,89 @@
+#panelAdmin{
+	background-color: white;
+	width: 500px;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+}
+
+#panelAdmin li{
+	list-style: none;
+	text-align: center;
+	background-color: #2E2EFE;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 20px;
+	transition: background-color 0.5s;
+}
+
+#panelAdmin li:hover{
+	background-color: #CECEF6;
+}
+
+#panelAdmin li > a {	
+	color: white;
+	text-decoration: none;
+	transition: color 0.5s;
+}
+
+#panelAdmin li > a:hover{
+	color: black;
+}
+#panelFAU{
+	background-color: white;
+	width: 800px;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+}
+#panelFAU table{
+	padding-left: 30px;
+	border-spacing: 10px;
+}
+
+#panelFAU td{
+	padding-left: 30px;
+	border-left-width: 50px;
+}
+
+#generalListas{
+	background-color: white;
+	width: 500px;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding: 10px;	
+	font-family: Arial, "MS Trebuchet", sans-serif;
+}
+
+#generalListas{
+	text-align: center;
+	color: white;
+}
+
+#generalListas h3{
+	background-color: #5882FA;
+}
+.listas{
+	font-size: larger;
+	color: white;
+	border: 0px;
+	background-color:#819FF7;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px; 
+}
+
+.botones{
+	color: white;
+	border: 0px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color:#819FF7;
+	margin: 15px 15px 15px 200px;
+}
+.botones:hover{
+	background-color: #5858FA;
+}
+

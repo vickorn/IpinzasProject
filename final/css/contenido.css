@@ -1,0 +1,21 @@
+#general {	
+	text-align: center;
+	border-radius: 5px;
+}
+.noticia{
+	background-color: white;
+	width: 400px;
+	display: inline-block;
+	text-align: left;
+	padding: 0px 10px;
+	margin: 10px 5px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #A4A4A4;
+}
+
+.noticia h1{
+	background-color: #A9BCF5;
+	padding: 0px 10px;
+	font-family: Tahoma;
+}
+

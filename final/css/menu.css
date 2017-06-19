@@ -1,0 +1,20 @@
+ul,ol{margin:0px; padding:0px;}
+#menu ul{
+	text-align: center;		
+}
+
+#menu li{	
+	list-style: none;
+	display: inline;		
+}
+
+#menu li a{
+	color:white;
+	text-decoration: none;
+	padding: 5px;	
+}
+
+#menu li a:hover{
+	background-color: red;
+}
+

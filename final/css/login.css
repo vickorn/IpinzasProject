@@ -1,0 +1,19 @@
+form{
+	background-color: #819FF7;
+	width: 400px;	
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+form input{
+	margin: 5px;
+	border: 0px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.botones:hover{
+	background-color: #5858FA;
+}

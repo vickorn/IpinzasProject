@@ -1,0 +1,46 @@
+div.contenedor{
+	width:940px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	border-radius: 5px;
+}
+div.subcontenedor{
+	width: 600px;
+	background-color: #2E2EFE;
+	text-align: center;
+	margin: 10px auto 10px auto;
+	border-radius: 5px;
+}
+
+h1,h2{
+	font-family: Verdana;
+	text-align: center;
+}
+
+table.res{
+	text-align: center;
+	background-color: #2E2EFE;
+	width:auto;
+	margin: auto;
+	padding: 10px;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+td{
+	margin-bottom: 30px;
+	width: 200px;
+	color:white;
+}
+td.head{
+	border-radius: 5px;
+	background-color: #5882FA;
+	margin-bottom: 30px;
+	width: 200px;
+	color:white;
+}
+
+h2{
+	background-color: #CED8F6;
+}

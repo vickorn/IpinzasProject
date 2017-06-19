@@ -1,0 +1,72 @@
+#panel{
+	background-color: white;
+	width: auto;
+	margin: 0 auto;
+	border-radius: 5px;
+	padding: 20px;
+	font-family: Arial, sans-serif;
+}
+h1{
+	color: #000000;
+	width: auto;
+	margin: 0 auto;
+	padding: 10;
+	font-family: Verdana;
+	text-align: center;
+}
+table{
+	text-align: center;
+	background-color: #2E2EFE;
+	width:auto;
+	margin: auto;
+	padding: 10px;
+	border-radius: 20px;
+}
+td{	
+	width: 200px;
+	text-align: center;
+	color:white;
+	border-radius: 10px;
+	padding: 8px;
+}
+td.edad{	
+	width: 50px;
+	text-align: center;
+	color:white;
+	border-radius: 10px;
+}
+.izq{	
+	width: 150px;
+	text-align: left;
+	color:white;
+	border-radius: 10px;
+	padding: 8px;
+}
+a{
+	background-color: #5882FA;
+	color:white;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 15px;
+}
+a:hover{
+	color: black;
+	border-radius: 15px;
+}
+input.submit{
+	background-color: #2E2EFE;
+	display:block;
+	position: right;
+	color: white;
+	margin: 30px 300px 40px auto;
+	border: 15px;
+	padding: 6px;
+	border-radius: 5px;
+}
+
+input.submit:hover{
+	background-color: #5858FA;
+}
+select{
+	width: 140px;
+}
